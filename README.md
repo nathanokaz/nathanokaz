@@ -18,4 +18,4 @@ Sou estudante de Ciência da Computação com foco em desenvolvimento backend. A
 
 ## Tecnologias e Ferramentas
 
- [![My Skills](https://skillicons.dev/icons?i=java,spring,git,mysql,html,css)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=java,js,spring,git,mysql,html,css)](https://skillicons.dev)
