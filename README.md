@@ -1,12 +1,19 @@
-# Nathan Okazaki
+# Olá, bem-vindo ao meu perfil! 👋
 
-Olá! Meu nome é Nathan Okazaki, sou estudante de Ciência da Computação na PUC-PR e tenho interesse em desenvolvimento backend e outras áreas de TI. Estou sempre aprendendo novas tecnologias e aberto a oportunidades desafiadoras. Aqui você pode encontrar alguns dos meus projetos e estudos.
+Sou estudante de Ciência da Computação com foco em desenvolvimento backend. Aqui você pode encontrar alguns dos meus projetos, estudos e práticas na área de desenvolvimento.
 
-## 👨‍💻 Objetivo
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0?style=flat-square&logo=Linkedin&logoColor=white&link=)]()
+[![Gmail Badge](https://img.shields.io/badge/-nathan.okaz@gmail.com-0?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nathan.okaz@gmail.com)](mailto:nathan.okaz@gmail.com)
 
-Buscando estágio na área de TI, especialmente em desenvolvimento backend, mas sempre aberto a novas oportunidades de aprendizado em diferentes áreas.
+<img src="https://github.com/nathanokaz/nathanokaz/raw/refs/heads/main/imagem%20banner" width= 250px height=250px align="right">
 
-## 💻 Tecnologias
+## Me chamo Nathan Okazaki
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,git,mysql,html,css&)](https://skillicons.dev)
+ - 👨‍💻 Foco em desenvolvimento backend
+ - 🎓 Graduando em Ciência da Computação – [PUC-PR](https://www.pucpr.br/)
+ - 🚀 Sempre aprendendo novas tecnologias
+ - 🎯 Buscando estágio na área de TI
 
+## Tecnologias e Ferramentas
+
+ [![My Skills](https://skillicons.dev/icons?i=java,spring,git,mysql,html,css)](https://skillicons.dev)
