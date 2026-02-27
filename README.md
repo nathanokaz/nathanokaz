@@ -1,11 +1,13 @@
 # Olá, bem-vindo ao meu perfil! 👋
 
+<p align="center">
+    <img src="https://github.com/nathanokaz/nathanokaz/blob/main/gif%20banner%20.gif?raw=true" height=150px width=500 align="center">
+</p>
+
 Sou estudante de Ciência da Computação com foco em desenvolvimento backend. Aqui você pode encontrar alguns dos meus projetos, estudos e práticas na área de desenvolvimento.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0?style=flat-square&logo=Linkedin&logoColor=white&link=)]()
 [![Gmail Badge](https://img.shields.io/badge/-nathan.okaz@gmail.com-0?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nathan.okaz@gmail.com)](mailto:nathan.okaz@gmail.com)
-
-<img src="https://github.com/nathanokaz/nathanokaz/raw/refs/heads/main/imagem%20banner" width= 250px height=250px align="right">
 
 ## Me chamo Nathan Okazaki
 
