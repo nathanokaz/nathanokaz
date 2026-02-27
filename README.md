@@ -1,7 +1,7 @@
 # Olá, bem-vindo ao meu perfil! 👋
 
 <p align="center">
-    <img src="https://github.com/nathanokaz/nathanokaz/blob/main/gif%20banner%20.gif?raw=true" height=150px width=500 align="center">
+    <img src="https://github.com/nathanokaz/nathanokaz/blob/main/gif%20banner%20.gif?raw=true" height=150px width=350 align="center">
 </p>
 
 Sou estudante de Ciência da Computação com foco em desenvolvimento backend. Aqui você pode encontrar alguns dos meus projetos, estudos e práticas na área de desenvolvimento.
