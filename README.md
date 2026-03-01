@@ -11,7 +11,7 @@ Sou estudante de Ciência da Computação com foco em desenvolvimento backend. A
 
 ## Me chamo Nathan Okazaki
 
- - 👨‍💻 Foco em desenvolvimento backend
+ - 👨‍💻 Foco em desenvolvimento full stack
  - 🎓 Graduando em Ciência da Computação – [PUC-PR](https://www.pucpr.br/)
  - 🚀 Sempre aprendendo novas tecnologias
  - 🎯 Buscando estágio na área de TI
